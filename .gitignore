@@ -1,0 +1,13 @@
+# File tam cua Windows
+Thumbs.db
+desktop.ini
+
+# Thu muc thu vien
+node_modules/
+
+# File bi mat
+.env
+*.log
+
+# File tam cua toi
+filetam.txt
